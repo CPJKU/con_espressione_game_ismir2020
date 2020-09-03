@@ -1,9 +1,9 @@
 This repository contains code for reproducing the experiments in
 
->[Cancino-Chacón C.](http://www.carloscancinochacon.com), 
+>[Cancino-Chacón, C.](http://www.carloscancinochacon.com), 
 >[Peter, S.](https://www.jku.at/en/institute-of-computational-perception/about-us/people/silvan-david-peter/),
 >[Chowdhury, S.](https://www.jku.at/en/institute-of-computational-perception/about-us/people/shreyan-chowdhury/), 
-> [Aljanaki A.](https://www.jku.at/en/institute-of-computational-perception/about-us/people/anna-aljanaki/) and [Widmer G.](https://www.jku.at/en/institute-of-computational-perception/about-us/people/gerhard-widmer/)<br>
+> [Aljanaki, A.](https://www.jku.at/en/institute-of-computational-perception/about-us/people/anna-aljanaki/) and [Widmer, G.](https://www.jku.at/en/institute-of-computational-perception/about-us/people/gerhard-widmer/)<br>
 "[On the Characterization of Expressive Performance in Classical Music: First Results of the *Con Espressione* Game](https://arxiv.org/abs/2008.02194)".<br>
 *In Proceedings of the International Society for Music Information Retrieval Conference*, 2020
 
@@ -23,6 +23,8 @@ This research has received support from the European Research Council (ERC) unde
 
 We gratefully acknowledge the effort invested by our music expert, Hans Georg Nicklaus (Anton Bruckner Private University of Music, Linz) for helping with the selection of the different performances in the dataset. We thank Olivier Lartillot for sharing the Matlab code to compute the loudness features.
 
-![logo](https://www.jku.at/fileadmin/_processed_/4/3/csm_erc_eu_8b7e33136b.png)
+<p align="center">
+  <img src="https://www.jku.at/fileadmin/_processed_/4/3/csm_erc_eu_8b7e33136b.png" />
+</p>
 
 
