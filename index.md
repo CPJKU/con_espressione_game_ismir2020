@@ -7,6 +7,10 @@ This repository contains code for reproducing the experiments in
 "[On the Characterization of Expressive Performance in Classical Music: First Results of the *Con Espressione* Game](https://arxiv.org/abs/2008.02194)".<br>
 *In Proceedings of the International Society for Music Information Retrieval Conference*, 2020
 
+The *Con Espressione* Game Dataset can be obtained here:
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3968828.svg)](https://doi.org/10.5281/zenodo.3968828)
+
 ## Abstract
 
 A piece of music can be expressively performed, or interpreted, in a variety of ways. With the help of an online questionnaire, the [*Con Espressione* Game](http://con-espressione.cp.jku.at), we collected some 1,500 descriptions of expressive character relating to 45 performances of 9 excerpts from classical piano pieces, played by different famous pianists. More specifically, listeners were asked to describe, using freely chosen words (preferably: adjectives), how they perceive the expressive character of the different performances. In this paper, we offer a first account of this new data resource for expressive performance research, and provide an exploratory analysis, addressing three main questions:
